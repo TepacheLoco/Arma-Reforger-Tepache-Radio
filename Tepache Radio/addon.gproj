@@ -1,0 +1,8 @@
+GameProject {
+ ID "TepacheRadio"
+ GUID "627D2E5DC4E6C2AE"
+ TITLE "Tepache Radio"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
